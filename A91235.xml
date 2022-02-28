@@ -1,0 +1,554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>IX queries upon the printed charge of the army against the XI. members and the papers thereto annexed: submitted to the publike consideration of the Parliament, army, and all lovers of justice, truth, parliaments, and their native country.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91235</idno>
+            <idno type="STC">Wing P4023</idno>
+            <idno type="STC">Thomason E394_1</idno>
+            <idno type="STC">ESTC R201616</idno>
+            <idno type="EEBO-CITATION">99862116</idno>
+            <idno type="PROQUEST">99862116</idno>
+            <idno type="VID">114265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>IX queries upon the printed charge of the army against the XI. members and the papers thereto annexed: submitted to the publike consideration of the Parliament, army, and all lovers of justice, truth, parliaments, and their native country.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing.</note>
+                  <note>Annotation on Thomason copy: "June 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114265:1"/>
+            <pb facs="tcp:114265:1" rendition="simple:additions"/>
+            <p>IX
+QVERIES
+Upon the Printed
+Charge of the Army
+againſt the XI.</p>
+            <p>MEMBERS
+And the Papers thereto annexed: Submitted to the
+Publike conſideration of the
+PARLIAMENT,
+ARMY,
+And all Lovers of Juſtice, Truth, Par<g ref="char:EOLhyphen"/>liaments,
+and their Native COUNTRY.</p>
+            <q>
+               <bibl>JER. 9. 4, 5.</bibl>
+               <p>Take ye heed every one of his Neighbour, and truſt ye not in
+any Brother; for each Brother will utterly ſupplant, and every Neigh<g ref="char:EOLhyphen"/>bour
+will walk with ſlanders. And they will deceive every man his
+Neighbour, and will not ſpeak the Truth; they have taught their
+tongues to ſpeak Lyes; and weary themſelves to commit Iniquity.</p>
+            </q>
+            <q>
+               <bibl>LUKE 3. 14.</bibl>
+               <p>And the Souldiers demanded of John, ſaying; And what
+ſhall we do? And he ſaid unto them; Do violence to no man (or, put
+no man in fear, <hi>much leſs a whole Parliament, City, Kingdome</hi>) neither
+ACC<g ref="char:V">Ʋ</g>SE ANY MAN FALSLY; and be content
+with your wages.</p>
+            </q>
+            <p>London, Printed in the Year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:114265:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:114265:2"/>
+            <head>Nine QUERIES upon the Printed
+CHARGE of the Army againſt the
+MEMBERS, and the Papers thereto
+annexed: Submitted to the publick
+Conſideration of the ARMY, and
+all Lovers of Juſtice, Truth, Parlia<g ref="char:EOLhyphen"/>ments
+and their native Country.</head>
+            <p>1. BY what Law, Commiſſion or Authority, the <hi>Ge<g ref="char:EOLhyphen"/>neral,
+Officers and Soldiers</hi> of the <hi>Army</hi> can <hi>or<g ref="char:EOLhyphen"/>der,</hi>
+not only their <hi>Letters</hi> and <hi>Declarations</hi> (of
+dangerous conſequence), but their very <hi>Charge</hi> a<g ref="char:EOLhyphen"/>gainſt
+the <hi>Members of the Commons Houſe,</hi> to be <hi>printed</hi> and
+publiſhed, without the <hi>Privity</hi> or <hi>Order</hi> of the <hi>Houſe?</hi> And
+whether this be not an encroachment of a tranſcendent <hi>Ar<g ref="char:EOLhyphen"/>bitrary
+power</hi> (which themſelves condemn in others) and an
+<hi>high Breach of the Houſes Priviledges;</hi> whereof the <hi>Houſe</hi>
+and whole <hi>Kingdom</hi> (whom they repreſent) ought to be deeply
+ſenſible, and have more juſt cauſe to complain againſt the <hi>Ar<g ref="char:EOLhyphen"/>my,</hi>
+then they againſt the <hi>accuſed Members?</hi>
+            </p>
+            <p>2. Whether this Charge delivered into the Houſe againſt
+theſe eminent Members, in the name of the <hi>whole Army</hi> (the
+greateſt part whereof do neither know the <hi>perſons</hi> impeached,
+much leſs their <hi>guiltineſs</hi> of the <hi>crimes</hi> whereof they accuſe
+them; without the names of any particular perſons thereto
+ſubſcribed undertaking to make good this charge at their utmoſt
+peril, or elſe to ſuffer and make them and the Houſe full <hi>repara<g ref="char:EOLhyphen"/>tion</hi>
+               <pb n="4" facs="tcp:114265:3"/>
+for their falſe <hi>Impeachment,</hi> be warrantable or receivable
+by any <hi>Law of God,</hi> or of <hi>the Land,</hi> or former <hi>Preſidents;</hi> and
+of a more <hi>arbitrary, dangerous</hi> and <hi>unjuſt</hi> conſtitution, and
+direful conſequence, then any theſe new <hi>Pretenders to publick
+Juſtice,</hi> and <hi>Declaimers</hi> againſt <hi>Arbitrary power,</hi> complain of in
+their <hi>Charge</hi> or <hi>Remonſtrances?</hi> and directly contrary to the
+<note n="*" place="margin">See Raſtal Accuſation.</note> 
+               <hi>Statutes</hi> of 25. <hi>E. 3. c. 4. 27. E. 3. c. 18. 38. E.</hi> 3.
+<hi>c. 9. 17. R. 2. c. 6. 15. H. 6. c.</hi> 4. And whether this <hi>Charge,</hi> de<g ref="char:EOLhyphen"/>livered
+in by an whole <hi>mutinous Army,</hi> in their name alone, be
+not expreſly made voyd and null by the Statute of 31. <hi>H. 6. c.</hi> 1.
+concerning <hi>Jack Cade</hi> and his Rebellious popular Army;
+which Enacts; <hi>That all Inditements</hi> (or Charges) <hi>and all
+things depending thereof, had and made, under the Power and
+Tyranny of</hi> Cade <hi>and his Army; during their Rebellion and
+Inſurrection, <g ref="char:V">Ʋ</g>NDER COLO<g ref="char:V">Ʋ</g>R OF J<g ref="char:V">Ʋ</g>STICE for
+Reformation of the Laws (who gather the people together in great
+number by falſe ſubtil imagined language) ſhal be voyd, ad<g ref="char:EOLhyphen"/>nulled,
+repealed and holden for none:</hi> And that ALL IN<g ref="char:EOLhyphen"/>DITEMENTS
+(or Charges) IN TIME COMING IN
+LIKE CASE, UNDER POVVER OF TYRANNY, RE<g ref="char:EOLhyphen"/>B<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>LLION
+AND STIRRING HAD, SHAL BE OF NO
+RECORD NOR EFFECT, BUT VOYD IN LAVV. And
+ſo not to be received by the Parliament, till the Army be disban<g ref="char:EOLhyphen"/>ded;
+whoſe Proceedings, Remonſtrances, and Pretences now,
+are very like that of <hi>Cades,</hi> and his party then; and may warn
+the Parliament and <hi>London</hi> to ſtand upon their guard; and not
+to let in the <hi>Army</hi> now, without reſiſtance, as they did then, up<g ref="char:EOLhyphen"/>on
+<note n="*" place="margin">
+                  <hi>Speed. Chron. P. 849, 850. Grafion</hi> p. 610. <hi>&amp;c.</hi> wor<g ref="char:EOLhyphen"/>thy the rea<g ref="char:EOLhyphen"/>ding.</note> 
+               <hi>faire promiſes, and a prohibition of murder, rape or rob<g ref="char:EOLhyphen"/>bery
+(which allured the hearts of the common people):</hi> Where<g ref="char:EOLhyphen"/>upon
+being let in, they apprehended and beheaded the Lord <hi>Say,</hi>
+Treaſurer of England, <hi>James Cromer</hi> his ſon in law and others,
+and rifled or fined divers of the Aldermen and other Citizens, and
+threatned the reſt; who at laſt repenting of their folly, when it
+was almoſt to late, for the preſervation of their lives and goods,
+raiſed and drew in forces; expulſed <hi>Cade,</hi> with his ungra<g ref="char:EOLhyphen"/>cious
+company; and by that means diſſipated his tumultuous
+Army: A ſtory worthy both the Parliaments, Cities and King<g ref="char:EOLhyphen"/>doms
+preſent conſideration.</p>
+            <p>3. Whether a general Charge in ambiguous Terms againſt
+<pb n="5" facs="tcp:114265:3"/>
+               <hi>XI.</hi> eminent <hi>Members</hi> at once (moſt of which have not only
+ſuffered, but done gallant ſervice in the field for the <hi>Parlia<g ref="char:EOLhyphen"/>ments
+Priviledges</hi> and <hi>Peoples Liberties</hi>) in general, ambigu<g ref="char:EOLhyphen"/>ous
+and uncertain terms, without deſcending to particulars of
+fact, perſons, time, place, or other circumſtance, to which by Law
+they are bound to anſwer, and cannot poſſibly make defence; and
+their not determining or ſpecifying which of them are guilty of
+all the Charge, which only of one or more (themſelves confeſſing
+that <hi>ſome of them are</hi> only <hi>guilty of one Head,</hi> in the ſame paper)
+be not a moſt illegal, injurious, arbitrary Accuſation and
+Proceeding, contrary to all Rules of <hi>Juſtice</hi> and <hi>Equity;</hi> and a
+greater invading, infringing, and endeavoring to overturn the
+<hi>Rights and Liberties of the Subjects of this Kingdom</hi> (and of
+Parliaments too) <hi>in arbitrary, violent and oppreſſive ways,</hi>
+then any chargeable againſt all or any of the <hi>XI.</hi> Members in the
+firſt Article? which they may now juſtly recharge againſt the
+<hi>Army,</hi> by way of recrimination, whoſe <hi>Proceedings</hi> give the
+<hi>Lye</hi> to their <hi>Pretences,</hi> as the<note n="*" place="margin">See Maſter <hi>Rheymes</hi> his Narration.</note> 
+               <hi>King</hi> himſelf hath done to ſome
+of their <hi>Declarations,</hi> touching his willingneſs to remove from
+<hi>Holdenby;</hi> and this very Charge doth too: which makes no
+mention of any <hi>Plot or Conspiracy</hi> by theſe <hi>Members</hi> to re<g ref="char:EOLhyphen"/>move
+the <hi>King</hi> from <hi>Holdenby,</hi> &amp;c. Or of <hi>Joyce</hi> his pretences
+why his perſon was ſeized by the <hi>Army:</hi> which hereby appears
+to be a meer <hi>figment</hi> and unjuſt <hi>pretext,</hi> to colour that <hi>Treaſo<g ref="char:EOLhyphen"/>nable
+Action;</hi> and make wiſe men ſuſpect, their other fair pro<g ref="char:EOLhyphen"/>poſals
+to the Parliament for <hi>Peace and publick Juſtice</hi> (contra<g ref="char:EOLhyphen"/>dicted
+by ſubſequent Proceedings) are meer Fictions too, to ef<g ref="char:EOLhyphen"/>fect
+ſome worſe deſignes without oppoſition.</p>
+            <p>4, With what colour or ſhadow of Religion, Iuſtice or Con<g ref="char:EOLhyphen"/>ſcience
+can an Army, profeſſing and ſtiling themſelves <hi>Saints,</hi>
+grow ſo unchriſtianly impatient, outragious, and unlike their Sa<g ref="char:EOLhyphen"/>viour,
+as upon a pretence of ſome falſ informations, miſrepreſen<g ref="char:EOLhyphen"/>tations
+&amp; ſcandalous ſuggeſtions made againſt them to the Houſe,
+concerning a Petition, &amp; engaging the Houſe by ſurpriſe to paſs a
+Vote againſt them, ſince recalled; in ſtead of paſſing by, forget<g ref="char:EOLhyphen"/>ting
+and putting up ſuch an injury (after competent ſatisfaction)
+to fal <hi>into ſuch diſtempers, as to be diſobliged and diſcouraged
+from any further ingagement in the Parliaments ſervice or Ire<g ref="char:EOLhyphen"/>lands
+preſervation,</hi> (as they unchriſtianly and ungratefully pro<g ref="char:EOLhyphen"/>feſs
+in their 2, 3, &amp; 4. Articles of Charge) and in ſtead
+<pb n="6" facs="tcp:114265:4"/>
+thereof to march up againſt the Parliament, ſeize the King; im<g ref="char:EOLhyphen"/>peach
+Members; demand all arrears before disbanding, endan<g ref="char:EOLhyphen"/>ger
+the Parliament, Kingdom; ſcandalize Religion, rejoyce
+Malignants, ſad the hearts of all good men; and forfeit their
+own honor and reputation, though better payd, rewarded, and
+dealt with by the Parliament, and leſs injured then any other
+Armies, Officers, Soldiers, imployed by them, who never manife<g ref="char:EOLhyphen"/>ſted
+ſuch high contemptuous carriages againſt the Houſes though
+never ſo deboyſt or irreligious: Is this Conſcience? this Religi<g ref="char:EOLhyphen"/>on?
+this your piety, and humility, after all your experiences of
+Gods preſence? Is God with you, or before your eyes in ſuch
+impatience or miſcarriages? Or is M. <hi>Peters</hi> with you to mind you
+of what he <hi>oft proteſted</hi> in the Pulpit in your names, <hi>Your rea<g ref="char:EOLhyphen"/>dineſs
+to lay down your Necks, Lives, and to live under Rocks
+and Caves in America, rather then not to diſband at the leaſt
+intimation of the Parliament, or to do any act impeaching
+their priviledges or proceedings?</hi> And was he then, or wil ye
+preſume now to make him a <hi>Lyar,</hi> to blaſt your own and his
+reputation with God &amp; men? Conſider this in cold blood when
+you are upon your beds, and deſiſt with remorſe and ſhame from
+ſuch unchriſtian ways and tumults, which wil render you more
+odious and execrable then the Gunpowder-Traytors, and ſet all
+mens hearts, hands, tongues againſt you.</p>
+            <p>5. Whether the Army by ſuch general and uncertain Charges
+as theſe might not impeach the whole Houſe it ſelf, as wel as
+theſe <hi>XI.</hi> Members? Whether their demand, <hi>that the
+Houſe ſhould forthwith ſuſpend them,</hi> without the leaſt ſhadow
+of proof upon ſuch an illegal charge to which no certain anſwer
+can be made, be not an equalling, juſtifying and exceeding the
+Kings and his armed parties demands againſt the five Members
+only upon more particular Articles then theſe; which ſeem at firſt
+a meer plot to take away their Votes for the preſent (&amp; after that
+the Votes of others both in Houſes reſerved for a future liſt) that
+their Independent party only may ſway &amp; Vote what they pleaſe
+in both; and their Officers in the Army that are Members<g ref="char:punc">▪</g> be both
+parties, accuſers, witneſſes and judges againſt theſe now accu<g ref="char:EOLhyphen"/>ſed,
+contrary to all Law and Juſtice, and ſo they wil be ſure to
+ſuffer what ever their innocency be? or wil not the Army be more
+<pb n="7" facs="tcp:114265:4"/>
+incenſed with their juſt acquittal, which wil much redound to
+diſhonor and heighten their diſcontents? And wil not this be arbi<g ref="char:EOLhyphen"/>trary
+and tyrannical Iuſtice in the ſuperlative degree?</p>
+            <p>6. Whether the <hi>Armies</hi> ſilence in not propounding their pub<g ref="char:EOLhyphen"/>lick
+demands for juſtice in their own and peoples behalf, or not
+impeaching any of the accuſed members, til they were voted to
+<hi>diſband,</hi> or go for <hi>Ireland;</hi> and their charge againſt them in
+their 2. 3. and 4. Articles, <hi>to break the Army,</hi> and <hi>pul it in
+peices,</hi> by authority of Parliament (when there was no fur<g ref="char:EOLhyphen"/>ther
+uſe of its ſervice here,) amounting in plain Engliſh to no
+more; but that they endeavoured and cauſed the Houſes to
+vote the Armies disbanding, and ſend ſome of them into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>
+under Major <hi>General Skippons</hi> and <hi>Maſſyes</hi> commands,
+(which no rational man can deem a crime, the war being ended
+and the people eaten out with <hi>Taxes</hi> and <hi>freequartring</hi> of the
+Army, and <hi>Ireland</hi> in diſtreſs) be nor a clear demonſtration to
+all the world; that this charge againſt the members, and quar<g ref="char:EOLhyphen"/>rel
+againſt the Houſes votes, is but a meer pretence to keep the
+<hi>Army</hi> from disbanding; til they have by its overawing power
+brought other deſigns to paſs both in the Parliament, City,
+kingdom? one whereof is clearly intimated in their <hi>charge</hi> and o<g ref="char:EOLhyphen"/>ther
+<hi>Papers;</hi> namely to ſuſpend &amp; throw out of the Houſe <hi>all old,</hi>
+and new <hi>elected members</hi> (how duly ſoever choſen or returned)
+who are not of their party, or likely to oppoſe their Projects, to
+fil up their places with <hi>New members</hi> of their own <hi>godly party;</hi>
+and to diſpoſe of all places of Power and <hi>Judicature, to mem<g ref="char:EOLhyphen"/>bers</hi>
+of their own: (and then to effect what changes they
+pleaſe in Church and ſtate) as their exceptions againſt theſe
+eminent Members, their deſire actually <hi>to ſuſpend them the
+Houſe,</hi> upon this <hi>general, uncertain, frivolous Charge,</hi> be<g ref="char:EOLhyphen"/>fore
+any the leaſt proof or Conviction; their exception to the
+Elections in <hi>Cornwal,</hi> (though all very faire) <hi>Wales,</hi> and
+<hi>elſewhere;</hi> and their indirect forcible practiſes to bring in <hi>Mem<g ref="char:EOLhyphen"/>bers
+and Officers</hi> of their own in all places, when this <hi>Army</hi> or
+their party had any power (of which there are many ſad com<g ref="char:EOLhyphen"/>plaints)
+with their exceptions to <hi>the Parliaments Judges,</hi> unan<g ref="char:EOLhyphen"/>ſwerably
+demonſtrate to the eye of all the world, beſides other
+particulars, which may ſhortly ſee the light, with many late
+<pb n="8" facs="tcp:114265:5"/>
+printed Pamphlets (eſpecially <hi>Englands Birthright,</hi>) and
+their late <hi>Propoſitions</hi> concerning the <hi>Change of Parliament
+Members</hi> &amp;c. and Coronet <hi>Joyce</hi> his printed Relation, which
+accuſeth <hi>two other Members</hi> not mentioned to this liſt, (re<g ref="char:EOLhyphen"/>ſerved
+with many others of both Houſes for a ſecond) which evi<g ref="char:EOLhyphen"/>dence
+the ſame. A deſign ſo dangerous and deſtructive, as may a<g ref="char:EOLhyphen"/>waken
+the Parliament, &amp; all honeſt men in time to endeavour its
+prevention, which without Gods mercy and their utmoſt activi<g ref="char:EOLhyphen"/>ty,
+is elſe unavoydably like to fall upon us in a moment.</p>
+            <p>7. Whether the <hi>Armies</hi> refuſal to disband or march more
+remote from <hi>London</hi> according to the <hi>Houſes Votes;</hi> their
+ſurpriſing and removing the <hi>Kings Perſon,</hi> and <hi>Commiſſioners</hi>
+of both <hi>Houſes</hi> againſt <hi>their wils</hi> and Proteſtations, upon falſe
+pretences without and againſt the Parliaments privity; their re<g ref="char:EOLhyphen"/>moving
+the Artillery from <hi>Oxford</hi> (throwing up their hats and
+crying out, <hi>hay for London</hi> &amp;c. as they marched thence;) and
+advancing ſo near to <hi>London,</hi> as to ſeaze upon moſt paſſages
+near it, ſearch many paſſengers repairing to it, and threatning
+to march up even to the Parliaments doors, (to which they
+make neerer approaches every day) in a tumultuous, violent
+and warlike manner, to impeach, affright and aſſault the
+Members of Parliament, in or near the Houſes, and by violence
+outrage and threats, to awe and incenſe the Parliament to re<g ref="char:EOLhyphen"/>tract
+<hi>their Votes, ſuſpend their Members,</hi> grant them all their
+unreaſonable demands before any expreſſions of their obedience
+to them, and to impoſe what conditions they pleaſe upon them;
+with their Letters and Remonſtrances to the City and people
+to engage them againſt, and diſingage them from the Parlia<g ref="char:EOLhyphen"/>ment
+to ſide with them, (in ſome whereof they court <hi>the very
+Malignants once in arms,</hi> complaining of the <hi>breach of Articles</hi>
+and craving <hi>reparation for their wrongs</hi> &amp;c.) their ſeiſing of <hi>Col.
+Birch</hi> a member, and removing his and other forces ſent for <hi>Ire<g ref="char:EOLhyphen"/>lands</hi>
+relief, &amp;c. ought not more juſtly to be charged againſt ſome
+<hi>Officers</hi> and <hi>Souldiers</hi> in the Army (who have moſt appeared in
+theſe mutinous ways) by the accuſed Members, their Officers,
+Commanders, both Houſes and the Kingdom, (being ſtil perſiſted
+in) then the Officers and Armies may or can charge the <hi>accuſed
+Members</hi> for <hi>inviting, encouraging, abetting, or Countenan<g ref="char:EOLhyphen"/>cing,
+divers Reformadoes and other Officers and Souldiers tu<g ref="char:EOLhyphen"/>multuouſly,
+<pb n="9" facs="tcp:114265:5"/>
+and violently</hi> to gather together at <hi>Weſtminſter</hi>
+to affright <hi>and aſſault the Members</hi> &amp;c. As they do in their
+<hi>fift Article:</hi> which tumult was ſoon quieted; and being an
+Injury only to the Houſe not Army, ſince the tumults in the Ar<g ref="char:EOLhyphen"/>my,
+and no ways relating to the Army (who ſtil act the ſame
+themſelves or worſe which they thus heavily Charge on o<g ref="char:EOLhyphen"/>thers)
+is a very forraign Charge with reference to the Members;
+and no other (by an over-ruling divine hand of providence) but
+a Charge and Impeachment againſt themſelves by way of juſt
+recrimination; for which they ought to yeeld up their Officers
+and principal Mutiners to the Parliaments and Kingdoms
+Iuſtice, by the ſame Law (and far more equity) as they demand
+the Members In which regard that divine text (aptly chara<g ref="char:EOLhyphen"/>cterizing
+theſe Accuſers) may juſtly be applyed to them, <hi>Rom.</hi>
+2. 17. &amp;c. <hi>Behold thou makeſt thy boaſt of God; and art con<g ref="char:EOLhyphen"/>fident,
+that thou thy ſelf art a guide to the bl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd a light to them
+which are in darkneſs, &amp;c. Thou therefore that teacheſt</hi> (im<g ref="char:EOLhyphen"/>peacheſt)
+<hi>another, teacheſt</hi> (impeacheſt) <hi>thou not thy ſelf?</hi> &amp;c.
+<hi>Thou that makeſt thy boaſt of the Law; through breaking the
+Law</hi> (yea Priviledges of Parliament in an higher degree then
+thoſe thou accuſeſt) <hi>diſhonoreſt thou God? For the name of
+God is blaſphemed omong the Gentiles</hi> (among Papiſts, Malig<g ref="char:EOLhyphen"/>nants,
+Prelatical, prophane and carnal perſons) <hi>through you,</hi> by
+theſe your Antiparliamentary and Mutinous Proceedings, which
+have opened their months wide againſt you, and made them to
+upbraid the Parliament and your deareſt Friends with this taun<g ref="char:EOLhyphen"/>ting
+language, to the very piercing of their ſouls: <hi>Lo theſe are
+Your Saints, Your Religious godly Party, and Army; Your
+Saviours and Protectors, who now riſe up in arms againſt you
+to ruin the Parliament &amp; Kingdom, and trample on you at their
+pleaſure?</hi> Did ever the prophaneſt Officers or Soldiers under
+deceaſed <hi>Eſſex, Waller, Maſſey, Mancheſter,</hi> the <hi>Scots</hi> or any o<g ref="char:EOLhyphen"/>ther
+Comander requite &amp; uſe you thus, though more provoked
+by ſome <hi>Independents of the Houſ with il language, caſheering,
+jealouſies, falſe aſperſions and want of pay, then theſe devout
+and mortified Saints? &amp;c.</hi> O conſider now at laſt of theſe true
+<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s! and ſay with the Poet, <hi>Pudet haec opprobria Nobis &amp;
+dici potuiſſe, &amp; non potmiſſe refelli.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:114265:6"/>
+8. With what coulor of Conſcience, Modeſty or Juſtice can
+the <hi>Army</hi> demand of the Parliament, not only <hi>one moneths pay</hi>
+(though many of them have been lately liſted ſince the wars
+without the Houſes privity, and therefore can in Juſtice claim
+no wages from them) when they ſtand in ſuch high <hi>terms</hi> of <hi>con<g ref="char:EOLhyphen"/>tempt</hi>
+and breach of their <hi>Priviledges</hi> and <hi>Authority;</hi> but to
+receive <hi>equal pay with thoſe who obey their commands in diſ<g ref="char:EOLhyphen"/>banding
+and lifting themſelves for Ireland?</hi> or that <hi>they ſhal
+have no more Areares payd them, til the reſt be payd their A<g ref="char:EOLhyphen"/>reares?</hi>
+and that <hi>pending the debates and tranſactions betwixt
+the Parliament and the Army, the Parliament would not ſuf<g ref="char:EOLhyphen"/>fer
+any new forces to be rayſed within this Kingdom, for their
+own defence?</hi> when as themſelves without any order have re<g ref="char:EOLhyphen"/>cruted
+the Army, made new <hi>praparation for war,</hi> and block
+up <hi>London</hi> more and more dayly; as if they intended a <hi>new war</hi>
+againſt the <hi>Parliament</hi> and <hi>City;</hi> and yet prohibit them to <hi>de<g ref="char:EOLhyphen"/>fend
+themſelves,</hi> that ſo they may at their pleaſure, (if they
+grant them not all their unreaſonable (if not <hi>endleſs demands,</hi>
+now every day multiplyed) ſurpriſe and pillage them at their
+pleaſures, as the<note n="*" place="margin">Sleidan. <hi>Com l.</hi> 10. Chytraeus. Ge<g ref="char:EOLhyphen"/>nebrand.</note> 
+               <hi>Anabaptiſts</hi> in <hi>Germany</hi> did the City and
+Magiſtrates of <hi>Munſter</hi> under a <hi>pretence of peace, contrary to
+their faith, to the Prince, City and Country,</hi> as <hi>ſoon as by
+their fair promiſes, they had perſwaded them to retire home and
+lay down their armes;</hi> whoſe extraordinary ſufferings for ſuch
+over-credulus folly ſhould teach the Parliament and City wiſe<g ref="char:EOLhyphen"/>dom,
+now to ſtand upon their guard, and not to expoſe them<g ref="char:EOLunhyphen"/>ſelves
+to the mercy of a boiſterous diſcontented Army whoſe
+demands grow higher every day; and tend only to engage all
+others to their party, and diſingage them from the Parliament;
+whoſe priviledges they pretend to ſupport, whiles they thus
+infringe them, formerly refuſing to have the ſolemn league
+and Covenant impoſed on them: which would have enga<g ref="char:EOLhyphen"/>ged
+them, (as wel as others) <hi>with ſincerity, reality and
+CONSTANCY, to endeavour with their eſtates and lives
+to preſerve the rights and priviledges of the Parliament; and
+not ſuffer themſelves directly or indirectly by whatſoever com<g ref="char:EOLhyphen"/>bination,
+perſwaſion or terror, to be divided or withdrawn from
+this Covenant,</hi> &amp;c. which how wel ſome members of the
+<pb n="11" facs="tcp:114265:6"/>
+Houſe and Army with oth<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> who have <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it now per<g ref="char:EOLhyphen"/>form,
+let their own con<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, the would, and that <hi>high God</hi> to
+whom they <hi>have lifted up their</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, when they ſolemnly
+ſwore this Covenant, judge; and either excite them to a ſtre<g ref="char:EOLhyphen"/>nuous
+and real performance of it, or require the woful breach
+of it at their perjured hands.</p>
+            <p>9. whether any motions of the Army to the Parliament
+ought to be heard or granted by the rules of juſtice, whilſt
+they continue in contempt againſt it? Whether an Army who
+profeſs this to be their principle, <hi>that no mans judgment or
+conſcience ought to be forced, by any external violence, but
+left free;</hi> can by any coulor of juſtice or conſcience, endeavour
+to enforce by menaces or violence, the <hi>judgment,</hi> and con<g ref="char:EOLhyphen"/>ſcience
+of the whole Parliament, whoſe <hi>Rights, Priviledges</hi>
+and <hi>freedom</hi> they are bound in duty, and raiſed to <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>?
+Whether every member of the Houſes, who though ſordid
+fear of any humane power, or compli<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncy with the Army,
+ſhal deſert or betray the freedom, <hi>Rights and Priviledges</hi>
+of the Parliament, which himſelf hath <hi>ſolemnly ſworn, Cove<g ref="char:EOLhyphen"/>nanted,
+and ingaged to maintain, to the uttermoſt, with his
+life and eſtate</hi> &amp;c. Ought not in juſtice to be thruſt out of
+the Houſe by his fellow Members with contempt and ſcorn,
+as unworthy ever to ſet there more, and a moſt treacherous per<g ref="char:EOLhyphen"/>jured
+perſon, betraying his truſt to Parliament and King<g ref="char:EOLhyphen"/>dom?
+And whether all members ought not in their greateſt exi<g ref="char:EOLhyphen"/>gencies,
+rather chearfully to lay down their lives, then the Houſes
+freedom, Rights and Priviledges (wherewith the whole King<g ref="char:EOLhyphen"/>dom
+hath intruſted them, for the preſent Common good, and
+ought to be intirely preſented and tranſmitted to poſterity for
+the kingdoms future ſafety) infringed? And to take up <hi>Davids</hi>
+magnanimous reſolution in their preſent ſtraits: <hi>Pſa.</hi> 3. 6. &amp; 27.
+1, 3. <hi>I wil not be afraid of ten thouſands of people who have
+ſet themſelves againſt me round about. Though an hoſt
+ſhould encamp againſt me; my heart ſhal not fear: though
+war ſhould riſe up againſt me, in this wil I be confident. The
+Lord is my light, and my ſalvation, whom ſhal I fear?
+the Lord is the ſtrength of my life, of whom ſhal I be afraid?</hi>
+That member who cannot raiſe up his ſpirit in the worſt of
+<pb n="11" facs="tcp:114265:7"/>
+magnanimous reſolution in their preſent ſtraits: <hi>Pſa.</hi> 3. 6, &amp; 27.
+1, 3. <hi>I wil not be afraid of ten thouſands of people who have
+ſet themſelves againſt me round about. Though an hoſt
+ſhould encamp againſt me; my heart ſhal not fear: though
+war ſhould riſe up againſt me, in this wil I be confident. The
+Lord is my light, and my ſalvation, whom ſhal I fear?
+the Lord is the ſtrength of my life, of whom ſhal I be afraid?</hi>
+That member who cannot raiſe up his ſpirit in the worſt of
+times to ſuch an heroick Chriſtian Reſolution, preferring his
+own perſonal ſafety, life or wealth before his Countries, is ſcarce
+worthy ever to enter more within the Houſes doors; and that
+true-bred <hi>Engliſhman</hi> unworthy to live, who wil not die at
+he Houſes feet in maintaining of their juſt Freedom, Rights, and
+Liberties, though in ſome things they may have formerly failed
+in their duties; ſince if Parliaments be once trampled upon
+and made contemptible by any (eſpecially by that Army which
+was raiſed by them, and hath hitherto fought for their defence,
+or any freinds to Parliaments) the Kingdom and people (who have
+ſubſiſted by Parliaments) wil be eternally loſt and ruined. Which
+ingaged both City &amp; Kingdom to adhere ſo faſt to the Parliament
+againſt the King and his Cavaliers heretofore, whom they can<g ref="char:EOLhyphen"/>not
+in Juſtice or honor now deſert, without infinite ingratitude,
+ſcandal and diſgrace, nor any officers or ſouldiers in the Army o<g ref="char:EOLhyphen"/>penly
+oppoſe or enforce without this guilt of Treaſon and Re<g ref="char:EOLhyphen"/>bellion;
+the breach of <hi>Rom.</hi> 13. 1, 2, 3. and condemnation
+of all their former faithful ſervices for its defence.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114265:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
